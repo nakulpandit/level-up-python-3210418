@@ -9,4 +9,4 @@ def is_palindrome(phrase):
 # commands used in solution video for reference
 if __name__ == '__main__':
     print(is_palindrome('hello world'))  # false
-    print(is_palindrome("Go hang a salami, I'm a lasagna hog."))  # true
+    print(is_palindrome("A man, a plan, a canal, Panama!"))  # true
